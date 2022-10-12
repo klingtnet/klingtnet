@@ -1,5 +1,5 @@
 1. You're not clever.
-2. Distributed systems rule #1: _Do not distribute the system!_.
+2. ~~Distributed systems rule #1: _Do not distribute the system!_.~~  At some point of scale this is often unavoidable, but be aware of the complexity that comes with a distributed system.
 3. Do not micro optimize.
 4. Measure where your program spends time.
 5. Optimization rule #1: _Reduce I/O_.
